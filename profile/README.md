@@ -1,3 +1,2 @@
-# Anton Rosin Dev.
-## ~English-speaking~ Русскоязычный developer.
-### Developing *dont know what im developing* 😁
+# ARDev.
+Developing *\*I dont know what im developing*\* 😁
